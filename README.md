@@ -17,6 +17,6 @@ Image:
 ![alt text](image.png "Original image")
 
 Segmented image: 
-![alt text](/results/segmented_image.png "Original image")
+![image](https://github.com/RahulRajR17/CodeClauseInternship_Background-Remover/assets/131233307/37d500e2-c848-4cb1-a682-4c38cfb43dbd)
 
 
